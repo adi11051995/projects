@@ -33,7 +33,7 @@ class GoL_4level():
     Z[:,0:20]=0
     Z[60:-1,:]=0
     Z[:,60:-1]=0
-    n=80
+    n=50 #experimenting
     
     """ Function to Search for Neighbours and return the neighbour."""
     
